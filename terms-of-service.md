@@ -42,4 +42,5 @@ Your use of the Service is at your sole risk. The Service is provided on an "AS 
 We reserve the right, at our sole discretion, to modify or replace these Terms at any time.
 
 ## 9. Contact Us
-If you have any questions about these Terms, please contact us.
+If you have any questions about these Terms, please contact us. 
+Email address: info@piranti-persada.id
